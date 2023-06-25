@@ -1,4 +1,4 @@
-#### About Me
+## About Me
 
 I am a passionate full-stack software developer with experience in TypeScript, React, and Node.js. I specialize in building innovative and user-friendly applications that make a positive impact. With a solid background in web development and a commitment to staying updated with the latest technologies, I strive to deliver high-quality solutions.
 
