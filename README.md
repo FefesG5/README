@@ -28,6 +28,3 @@ This full-stack application leverages the power of React Native with TypeScript 
 
 - Email: fc00004@gmail.com
 - LinkedIn: [Gee Chai's LinkedIn Profile](https://www.linkedin.com/in/gee-chai-54a46780/)
-
-Feel free to customize the README further according to your preferences and add any additional sections or information that you think would be valuable for visitors to your GitHub profile.
-
