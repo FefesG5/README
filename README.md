@@ -15,6 +15,8 @@ This full-stack application leverages the power of React Native with TypeScript 
 Description:
 Aas Nordre Tolerud is a frontend project website for a small catering business in Norway. This portfolio showcases fresh, locally sourced dishes for potential customers, allowing them to explore options and book catering services.
 
+This full-stack application leverages the power of React with TypeScript for the front-end, while the back-end is developed using Prisma, Node.js, TypeScript, and a PostgreSQL database. 
+
 ### Skills
 
 - Programming Languages: ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?&logo=typescript&logoColor=white)
