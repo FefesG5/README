@@ -10,6 +10,11 @@ nourish is a mobile-friendly app built with React Native and bundled with Expo. 
 
 This full-stack application leverages the power of React Native with TypeScript for the front-end, while the back-end is developed using Prisma, Node.js, TypeScript, and a PostgreSQL database.
 
+####Project 2: Aas Nordre Tolerud
+
+Description:
+Aas Nordre Tolerud is a frontend project website for a small catering business in Norway. This portfolio showcases fresh, locally sourced dishes for potential customers, allowing them to explore options and book catering services.
+
 ### Skills
 
 - Programming Languages: ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?&logo=typescript&logoColor=white)
