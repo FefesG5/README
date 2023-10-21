@@ -4,13 +4,13 @@ I am a passionate full-stack software developer with experience in TypeScript, R
 
 ### Projects
 
-#### Project 1: nourish
+#### Project 1: nourish (https://github.com/nourish-team)
 
 nourish is a mobile-friendly app built with React Native and bundled with Expo. It is designed to help users track and optimize their beauty routines. With features such as routine creation, product logging, and effectiveness tracking, nourish empowers users to make informed decisions about their skincare regimen. The app also includes a journaling feature for users to document their experiences and a digital history through pictures.
 
 This full-stack application leverages the power of React Native with TypeScript for the front-end, while the back-end is developed using Prisma, Node.js, TypeScript, and a PostgreSQL database.
 
-#### Project 2: Aas Nordre Tolerud
+#### Project 2: Aas Nordre Tolerud (https://github.com/FefesG5/aas-nordre-tolerud)
 
 Description:
 Aas Nordre Tolerud is a frontend project website for a small catering business in Norway. This portfolio showcases fresh, locally sourced dishes for potential customers, allowing them to explore options and book catering services.
@@ -19,7 +19,7 @@ This full-stack application leverages the power of React with TypeScript for the
 
 ### Skills
 
-- Programming Languages: ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?&logo=typescript&logoColor=white)
+- Programming Languages: ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?&logo=typescript&logoColor=white), ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?&logo=javascript&logoColor=white), ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 - Front-end: ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white), ![React-Native](https://img.shields.io/badge/React--Native-61DAFB?logo=react&logoColor=white), ![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white), ![CSS](https://img.shields.io/badge/CSS-blueviolet?logo=css3&logoColor=white)
 - Back-end: ![Node.js](https://img.shields.io/badge/Node.js-brightgreen?logo=node.js&logoColor=white), ![Prisma](https://img.shields.io/badge/Prisma-yellowgreen?logo=prisma&logoColor=white), ![Knex.js](https://img.shields.io/badge/Knex.js-red?logo=knex.js&logoColor=white)
 - Database: ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blueviolet?logo=postgresql&logoColor=white)
