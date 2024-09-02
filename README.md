@@ -4,18 +4,11 @@ I am a passionate full-stack software developer with experience in TypeScript, R
 
 ### Projects
 
-#### Project 1: nourish (https://github.com/nourish-team)
+#### Project 1: Try Angle Kids Prototype V2 (https://try-angle-kids-prototype-v2.vercel.app/))
 
-nourish is a mobile-friendly app built with React Native and bundled with Expo. It is designed to help users track and optimize their beauty routines. With features such as routine creation, product logging, and effectiveness tracking, nourish empowers users to make informed decisions about their skincare regimen. The app also includes a journaling feature for users to document their experiences and a digital history through pictures.
+Try Angle Kids is an international after-school program dedicated to enhancing children's academic skills and global mindset through project-based learning and immersive English education. Our web application, Try Angle Kids Prototype v2, supports STEM learning with engaging educational videos and interactive quizzes, providing immediate feedback to reinforce comprehension.
 
-This full-stack application leverages the power of React Native with TypeScript for the front-end, while the back-end is developed using Prisma, Node.js, TypeScript, and a PostgreSQL database.
-
-#### Project 2: Aas Nordre Tolerud (https://github.com/FefesG5/aas-nordre-tolerud)
-
-Description:
-Aas Nordre Tolerud is a frontend project website for a small catering business in Norway. This portfolio showcases fresh, locally sourced dishes for potential customers, allowing them to explore options and book catering services.
-
-This full-stack application leverages the power of React with TypeScript for the front-end, while the back-end is developed using Prisma, Node.js, TypeScript, and a PostgreSQL database. 
+This application uses, Firebase for the data storage and Next.js framework.
 
 ### Skills
 
